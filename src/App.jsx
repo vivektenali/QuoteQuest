@@ -23,6 +23,9 @@ function App() {
         >
           Quote
         </button>
+        <p>
+          Developed by <a href="https://vivektenali.com/">Vivek</a>{" "}
+        </p>
       </div>
     </>
   );
